@@ -6,9 +6,9 @@ Welcome to Adrian's Awesome LIRI app, with this simple js app you will be able t
 
 ### Before You Begin
 
-Go to the root of your project and run `npm init -y` &mdash; this will initialize a `package.json` file for your use. If you fail to initialize a `package.json` file, it will be troublesome, and at times almost impossible to run the code.
+Go to the root of the project and run `npm init -y` &mdash; this will initialize a `package.json` file for your use. If you fail to initialize a `package.json` file, it will be troublesome, and at times almost impossible to run the code.
 
-Create a file named `.env`, add the following to it, replacing the values with your API keys from spotify (no quotes) once you have them:
+You will need to navigate to spotify to obtain an API key and a secret. After you get this information create a file named `.env`, add the following to it, replacing the values below with your API keys from spotify (no quotes) once you have them:
 
 ```js
 # Spotify API keys
