@@ -22,16 +22,16 @@ SPOTIFY_SECRET=your-spotify-secret
 When you finish, your test of the app should look like this:
 
 Here is the app Menu, you can choose 4 different paths:
-![Image of songs](https://github.com/adriansg85/liri-node-app/images/menu.png)
+![Image of songs](https://github.com/adriansg85/liri-node-app/blob/master/images/menu.png)
 
 To look for a song just navigate to 'Search for Spotify Song' and type your input.
-![Image of songs](https://github.com/adriansg85/liri-node-app/images/song.png)
+![Image of songs](https://github.com/adriansg85/liri-node-app/blob/master/images/song.png)
 
 To look for a movie just navigate to 'Search for a Movie' and type your input.
-![Image of movies](https://github.com/adriansg85/liri-node-app/images/movie.png)
+![Image of movies](https://github.com/adriansg85/liri-node-app/blob/master/images/movie.png)
 
 To search for a concert just navigate to 'Concerts of Favorite Bands' and type your input.
-![Image of concerts](https://github.com/adriansg85/liri-node-app/images/concerts.png)
+![Image of concerts](https://github.com/adriansg85/liri-node-app/blob/master/images/concerts.png)
 
 And to do what the text file says just navigate to 'Do what it says' and hit enter to see the magic.
-![Image of random text](https://github.com/adriansg85/liri-node-app/images/dowhat.png)
+![Image of random text](https://github.com/adriansg85/liri-node-app/blob/master/images/dowhat.png)
